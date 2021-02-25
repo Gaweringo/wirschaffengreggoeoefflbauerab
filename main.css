@@ -1,0 +1,12 @@
+button{
+    color: aqua;
+    background-color: black;
+    font-size: xx-large;
+    font-family: inherit;
+}
+
+html{
+    background-color: black;
+    color: white;
+    font-family: 'Comic Sans MS', Arial, Helvetica, sans-serif;
+}
