@@ -7,6 +7,10 @@ button{
 
 html{
     background-color: black;
-    color: white;
+    color: rgb(221, 0, 0);
     font-family: 'Comic Sans MS', Arial, Helvetica, sans-serif;
+    font-size: 2em;
+    background-image: url("assets/Gregor.png");
+    background-repeat: round;
+    background-size: cover;
 }
